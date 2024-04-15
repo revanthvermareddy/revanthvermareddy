@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**revanthvermareddy/revanthvermareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Revanth](https://github.com/revanthvermareddy), a passionate software developer who loves to code.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a Sr. Software Engineer, currently working in Fintech at [Beem](https://trybeem.com/). I love problem-solving, and I'm always eager to collaborate on projects and innovative dispositions.
+I'm currently learning a lot of things which can't be mentioned here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages**: Python, JavaScript, Java, C++
+- **Frameworks/Libraries**: FastAPI, Express.js, Springboot, Next.js, React Native etc
+- **Databases**: MongoDB, PostgreSQL, MySQL, etc
+- **Tools**: Docker, Kubernetes, Git, etc
+
+## 📫 How to reach me
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/revanthvermareddy/) or schedule a meet [here](https://cal.com/revanth/).
+
+## 😄 Fun fact
+I love to play chess in my free time. ♞♖
