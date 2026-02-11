@@ -48,5 +48,5 @@ When I'm not in the tech zone, you'll find me:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=revanthvermareddy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=revanthvermareddy&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
